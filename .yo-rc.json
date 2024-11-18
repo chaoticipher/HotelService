@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "HotelService",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731939957038,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "OWI0NTQyNjQ5MTY1ZTFlZmNjZTJkOGFmZjIzNzJjZWI5NTE0MGQ5ZWEwOWRiZTkzNTk3ODk4ZjBhMWExZGMxNjBiMWM1YWU2N2MxNzExMDM0NDBiMzkyZjg2ZTk5NzRjYTM3NDVkMmM4ZmU5YjA3ZmY4MzM4YzAyNDQwNjBhYjU=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
